@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "lastGood": {
+    "google": "google:default"
+  },
+  "usageStats": {
+    "google:default": {
+      "errorCount": 0,
+      "lastUsed": 1776153503567,
+      "lastFailureAt": 1776153503241
+    }
+  }
+}

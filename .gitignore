@@ -1,0 +1,16 @@
+# Autenticazione e Dati Sensibili
+credentials/
+identity/
+.env
+
+# Directory e File di Log
+logs/
+*.log
+
+# File di Backup e Temporanei
+*.bak
+*.bak.*
+
+# File di Sistema (consigliati per evitare sporcizia nei commit)
+.DS_Store
+Thumbs.db
