@@ -2,7 +2,24 @@
 credentials/
 identity/
 agents/
+devices/
 .env
+
+# Stato del Sistema, Runtime e Dati Dinamici
+exec-approvals.json
+update-check.json
+telegram/
+qqbot/data/
+
+# Database e Code di Task
+tasks/
+*.sqlite
+*.sqlite-*
+
+# Workspace State e Memoria dinamica
+workspace/memory/
+workspace/state/
+workspace/.openclaw/
 
 # Directory e File di Log
 logs/
@@ -12,6 +29,6 @@ logs/
 *.bak
 *.bak.*
 
-# File di Sistema (consigliati per evitare sporcizia nei commit)
+# File di Sistema
 .DS_Store
 Thumbs.db
