@@ -1,6 +1,7 @@
 # Autenticazione e Dati Sensibili
 credentials/
 identity/
+agents/
 .env
 
 # Directory e File di Log

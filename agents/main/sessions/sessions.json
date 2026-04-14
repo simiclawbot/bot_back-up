@@ -406,7 +406,7 @@
       "accountId": "default"
     },
     "sessionId": "c333d564-54de-43b3-8802-60df99c3a1e8",
-    "updatedAt": 1776153518239,
+    "updatedAt": 1776155871433,
     "deliveryContext": {
       "channel": "telegram",
       "to": "telegram:953615471",
@@ -540,12 +540,12 @@
       "version": 0
     },
     "status": "failed",
-    "startedAt": 1776153503097,
+    "startedAt": 1776155856213,
     "modelProvider": "google",
     "model": "gemini-flash-latest",
     "systemPromptReport": {
       "source": "run",
-      "generatedAt": 1776153464193,
+      "generatedAt": 1776155841550,
       "sessionId": "c333d564-54de-43b3-8802-60df99c3a1e8",
       "sessionKey": "agent:main:telegram:direct:953615471",
       "provider": "google",
@@ -565,9 +565,9 @@
         "sandboxed": false
       },
       "systemPrompt": {
-        "chars": 24947,
+        "chars": 24970,
         "projectContextChars": 10089,
-        "nonProjectContextChars": 14858
+        "nonProjectContextChars": 14881
       },
       "injectedWorkspaceFiles": [
         {
@@ -790,8 +790,8 @@
     "contextTokens": 200000,
     "inputTokens": 40837,
     "outputTokens": 634,
-    "endedAt": 1776153503236,
-    "runtimeMs": 139
+    "endedAt": 1776155856432,
+    "runtimeMs": 219
   },
   "agent:main:telegram:slash:953615471": {
     "origin": {
