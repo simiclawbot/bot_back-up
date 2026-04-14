@@ -1,8 +1,0 @@
-- [LinkedIn](https://www.linkedin.com/in/simonemattioli2003/)
-- [GitHub](https://github.com/simo-hue)
-- [Sito Web Personale](http://simo-hue.github.io)
-- [YouTube](https://www.youtube.com/@mountainfaunalover)
-- [YouTube](https://www.youtube.com/@SimosDiary2003)
-- [Instagram](https://www.instagram.com/mountainfaunalover)
-- [Personal Instagram](https://www.instagram.com/simo___one/)
-- [Mio Paper Scientifico](https://www.mdpi.com/2504-2289/10/4/117)
